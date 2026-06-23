@@ -2,7 +2,7 @@
 
 ### Computer Science (AI & ML) Student | Aspiring AI Engineer
 
-I'm passionate about Artificial Intelligence, Machine Learning, Natural Language Processing, Data Science, and Full-Stack Development. I enjoy building scalable software solutions, exploring modern AI technologies, and solving real-world problems through technology.
+I'm passionate about Artificial Intelligence, Machine Learning, Natural Language Processing, Data Science, and Full-Stack Development. I enjoy building software solutions, exploring modern AI technologies, and solving real-world problems through technology.
 
 ---
 
@@ -38,7 +38,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, Natural Language
 ### Backend Development
 
 * FastAPI
-* REST APIs
 * PostgreSQL
 
 ### Frontend Development
@@ -53,7 +52,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, Natural Language
 * Git
 * GitHub
 * VS Code
-* Linux
 * PostgreSQL
 
 ---
@@ -67,13 +65,6 @@ I'm passionate about Artificial Intelligence, Machine Learning, Natural Language
 * Data Engineering
 * Backend Development
 * Full-Stack Applications
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
